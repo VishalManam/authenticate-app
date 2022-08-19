@@ -42,4 +42,4 @@ Files included for the Admin Panel:
     6. developers.php – This page allocates the data from the verify_user database into the adminpage.php
     7. logout.php – Page which logs out the Admin, redirects to adminlogin.php
     8. login.css – Used for styling the adminlogin.php page
-    9. Also, various .css files were used for styling the adminpage.php page
+    9. Also, various .css files were used for styling the adminpage.php page.
